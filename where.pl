@@ -28,7 +28,7 @@ print $red, "
     print"\n";
     print $cyan, "1.Rastrear encomendas dos Correios\n";
     print $cyan,"2.Rastrear encomendas da Jadlog\n";
-    print $cyan,"3.Rastrar encomendas da Sequoia\n";
+    print $cyan,"3.Rastrear encomendas da Sequoia\n";
     print $cyan,"4.Baixar e instalar dependências\n";
     print $cyan,"0. Sair\n";
     print $yellow,"\nDigite uma opção: ";
